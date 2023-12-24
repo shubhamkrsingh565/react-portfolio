@@ -8,7 +8,6 @@ import { RiServiceLine } from "react-icons/ri";
 import { BiMessageSquareDetail } from "react-icons/bi";
 
 
-
 const Nav = () => {
   const [activeNav, setActiveNav] = useState('#');
   return (
