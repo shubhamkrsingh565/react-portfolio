@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
-import CV from '../../assets/cv.pdf'
+import CV from '../../assets/Fullstack_Developer.pdf'
 
 const CTA = () => {
   return (
