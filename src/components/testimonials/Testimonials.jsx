@@ -18,22 +18,22 @@ const data = [
   {
     avatar: AVTR1,
     name: "Tina Snow",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam culpa id quo officiis non corporis, blanditiis dolor in quod ad eligendi quia vel, consequuntur, rem ratione quas voluptas reprehenderit. Aspernatur sed magni deleniti."
+    review: "I have worked with this freelancer for over two years, in that time we've done many projects together. He does work that's higher than standard, his communication skills are good and he is very easy to work with. In the projects we've worked on together there has never been any issues. I would definitely recommend hiring him."
   },
   {
     avatar: AVTR2,
     name: "Shatta Wale",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam culpa id quo officiis non corporis, blanditiis dolor in quod ad eligendi quia vel, consequuntur, rem ratione quas voluptas reprehenderit. Aspernatur sed magni deleniti."
+    review: "I have worked with the freelancer on a number of projects and always enjoyed working together. The freelancer has a great understanding of the industry, which helps us solve problems quickly and effectively. If you are looking for someone who can take ownership of your project and get it done, then I highly recommend this freelancer."
   },
   {
     avatar: AVTR3,
     name: "Kwame Despite",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam culpa id quo officiis non corporis, blanditiis dolor in quod ad eligendi quia vel, consequuntur, rem ratione quas voluptas reprehenderit. Aspernatur sed magni deleniti."
+    review: "I had a great experience working with the freelancer[Name]. We were able to complete the SEO project ahead of schedule, with creative ideas that really tested well with our target audience. We would like to work together again in the future."
   },
   {
     avatar: AVTR4,
     name: "Nana Ama McBrown",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam culpa id quo officiis non corporis, blanditiis dolor in quod ad eligendi quia vel, consequuntur, rem ratione quas voluptas reprehenderit. Aspernatur sed magni deleniti."
+    review: "He has been a great freelancer to work with I have worked with him several times and he always delivers high quality work. The communication is also great, he responds quickly to messages and all in all very pleasant to work with."
   }
 ]
 

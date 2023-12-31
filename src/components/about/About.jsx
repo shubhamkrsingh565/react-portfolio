@@ -29,20 +29,21 @@ const About = () => {
             </article>
 
             <article className="about_card">
-              <FiUsers className='about_icon' />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <VscFolderLibrary className='about_icon' />
+              <h5>Projects</h5>
+              <small>20+ Completed</small>
             </article>
 
             <article className="about_card">
-              <VscFolderLibrary className='about_icon' />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <FiUsers className='about_icon' />
+              <h5>Deploy</h5>
+              <small>15+ Live</small>
             </article>
+
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus minima aperiam architecto, eaque ad doloribus perspiciatis doloremque voluptate inventore cupiditate ea nulla ex distinctio culpa iusto vel porro. Obcaecati, illum.
+            As a passionate and dedicated professional, I am committed to applying my skills and experience in design and develop innovative applications across multiple platforms while staying upto-date with the latest advancements in technology. I thrive in challenging environments and am able to work effectively under pressure, managing my time efficiently to deliver high quality results.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

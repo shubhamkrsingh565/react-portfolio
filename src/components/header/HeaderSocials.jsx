@@ -7,8 +7,8 @@ import { FaPinterest } from "react-icons/fa";
 const HeaderSocials = () => {
   return (
     <div className='header_socials'>
-        <a href="https://linkedin.com" target='_blank' rel="noreferrer"><BsLinkedin/></a>
-        <a href="https://github.com" target='_blank' rel="noreferrer"><FiGithub/></a>
+        <a href="https://linkedin.com/in/shubhamkrsingh565" target='_blank' rel="noreferrer"><BsLinkedin/></a>
+        <a href="https://github.com/shubhamkrsingh565" target='_blank' rel="noreferrer"><FiGithub/></a>
         <a href="https://pinterest.com" target='_blank' rel="noreferrer"><FaPinterest/></a>
     </div>
   )
