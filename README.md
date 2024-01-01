@@ -8,7 +8,7 @@ design principles, aiming to present a user-friendly and responsive experience a
 
 ### Technologies & Skills Utilized:
 
-`React:` Leveraged React.js to build a dynamic and interactive user interface, ensuring efficient\
+`React:` Leveraged React.js to build a dynamic and interactive user interface, ensuring efficient\ 
 component rendering and state management.
 
 `useState Hook:` Implemented the useState hook within React for managing component-level state,\
