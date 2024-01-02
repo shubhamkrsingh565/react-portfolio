@@ -5,7 +5,7 @@
 ### Objective: 
 Developed a comprehensive developer portfolio to showcase proficiency in front-end technologies and \
 design principles, aiming to present a user-friendly and responsive experience across devices.
-
+ 
 ### Technologies & Skills Utilized:
 
 `React:` Leveraged React.js to build a dynamic and interactive user interface, ensuring efficient\ 
